@@ -1,0 +1,7 @@
+stm32F407xx_RCC_driver.c:22:10:RCC__GetPLLOutputClock	4	static
+stm32F407xx_RCC_driver.c:31:10:RCC_getPCLK1Value	32	static
+stm32F407xx_RCC_driver.c:96:10:RCC_getPCLK2Value	24	static
+stm32F407xx_RCC_driver.c:133:6:RCC_OsclatorConfig	16	static
+stm32F407xx_RCC_driver.c:165:6:RCC_ClkConfig	16	static
+stm32F407xx_RCC_driver.c:179:6:RCC_MOC_Config	16	static
+stm32F407xx_RCC_driver.c:193:6:RCC_RTC_Config	16	static

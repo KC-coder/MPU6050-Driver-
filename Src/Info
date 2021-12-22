@@ -1,0 +1,64 @@
+ ************************ application programs ******************************** 
+ 				
+ 					For testing the driver functions
+ 								&
+ And to act as  example program for the user to understand driver & sensor 
+ 
+ 
+
+1 ) SelfTest.c 
+
+In this we perform the self test on the sensor 
+and use  16x02 display in 4/8 line mode to display its value
+
+2) AccelOnly 
+
+In this we perform the self test on the sensor then only turn on the 
+accelerometer sensor of the MPU to calibrate it we don't use the FIFO  
+and use  16x02 display in 4/8 line mode to display its value.
+
+3)GyroOnly
+In this we perform the self test on the sensor then only turn on the 
+Gyro sensor of the MPU to calibrate it we don't use the FIFO  
+and use  16x02 display in 4/8 line mode to display its value.
+
+4)AccelGyro
+
+In this we perform the self test on the sensor then y turn on the accel & 
+Gyro sensor of the MPU to calibrate it we don't use the FIFO  
+and use  16x02 display in 4/8 line mode to display its value.
+
+4)AccelGyro
+
+In this we perform the self test on the sensor then we turn on the accel & 
+Gyro sensor of the MPU to calibrate it with FIFO   
+and use  16x02 display in 4/8 line mode to display its value.
+
+5) Complete sensor
+
+In this we perform the self test on the sensor then turn on the accel, temp & 
+Gyro sensor of the MPU to calibrate it without FIFO   
+and use  16x02 display in 4/8 line mode to display its value.
+
+6) Complete sensor with FIFO 
+
+In this we perform the self test on the sensor then turn on the accel, temp & 
+Gyro sensor of the MPU to calibrate it without FIFO   
+and use  16x02 display in 4/8 line mode to display its value.
+
+7)Complete sensor in interrupt mode 
+
+8) complete sensor with interrupt functionality , with temp and FIFO
+
+9) make level check device using this sensor
+
+10) globe of LED application 
+
+11) servo movement with the sensor
+
+12) test sensor slave functions
+
+13) To be decided 
+
+
+

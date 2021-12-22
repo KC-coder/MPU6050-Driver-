@@ -1,0 +1,11 @@
+stm32F407xx_ADC_driver.c:15:6:ADC_PeriClock	16	static
+stm32F407xx_ADC_driver.c:46:6:ADC_Int	24	static
+stm32F407xx_ADC_driver.c:80:6:ADC_POWER_EnOrDi	16	static
+stm32F407xx_ADC_driver.c:94:6:ADC_Reg_Coversion_EnORDi	16	static
+stm32F407xx_ADC_driver.c:107:6:ADC_SCAN_MODE	16	static
+stm32F407xx_ADC_driver.c:119:6:ADC_CyclesPerSample	24	static
+stm32F407xx_ADC_driver.c:134:10:ADC_ReadRegularData	24	static
+stm32F407xx_ADC_driver.c:141:10:ADC_ReadInjectedData	24	static
+stm32F407xx_ADC_driver.c:148:6:ADC_CONFIG_WATCHDOG	16	static
+stm32F407xx_ADC_driver.c:154:6:ADC_Watchdog_CHSelect	16	static
+stm32F407xx_ADC_driver.c:159:6:ADC_RegularChannelConfig	24	static
